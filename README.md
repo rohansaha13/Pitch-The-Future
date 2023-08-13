@@ -12,3 +12,10 @@
 
  - Led the **Electronics Team** around Sensors [UWB, IMU & RTK-GPS], Micro-Controllers & Micro-Processors, Power & Data Architectures, Safety Systems, Sensor & CPU Upbringing, Benchmarking & Testing
  - **Exposure** : ROS, Arduino & Raspberry Pi Programming, CAD
+
+ - Advanced **Software Engineering** Virtual Experience Program |  **Walmart Global Tech** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Walmart%20India/H5qXk7hxAEaiD8qMr_Walmart%20India_mNMgak5aCPCzpyJEb_1685016536514_completion_certificate.pdf)
+ - **Cybersecurity & Cloud Computing** Program | **Mastercard** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_mNMgak5aCPCzpyJEb_1685043248091_completion_certificate.pdf)
+ - Introduction to Cloud Computing on AWS | **Udemy** | [Certificate](https://www.udemy.com/certificate/UC-5eb3df48-a47b-463c-9384-ac39faa49352/)
+
+ - HAIS is a **Stand-Alone Subsystem** of Wearable Wristband & Seatbelt Sensors, Power Source, Processor & Cloud Storage that works with an Autonomous Vehicle [AV] to provide **Autonomous Aid to Passengers** during any **Medical Emergency**
+ - Project consists of Core Electronics, Vital Medical Sensors, In-House Trained ML Models, AI-Integrated Subsystems & Fully Autonomous Motion-Planning |  [Project Report](https://drive.google.com/file/d/1UXdYO_uDDIsdAa-NxEuVNXzTK-xdW_-x/view?usp=sharing) |  [Project Video](https://drive.google.com/file/d/1qJZIHZrw1EuKlfnxLEnNx8D3rzRpLsOB/view?usp=sharing)
